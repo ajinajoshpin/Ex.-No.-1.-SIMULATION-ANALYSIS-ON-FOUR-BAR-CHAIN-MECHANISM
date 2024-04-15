@@ -53,6 +53,10 @@
 
 
 ## Output:
+![image](https://github.com/ajinajoshpin/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/148514578/a6d32ea3-2da5-495f-868f-62d8e419d903)
+![WhatsApp Image 2024-04-15 at 07 37 15_fbb99636](https://github.com/ajinajoshpin/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/148514578/8d2af707-9ea6-496d-9889-531b4d04d807)
+
+
 
 
 ### Name:
